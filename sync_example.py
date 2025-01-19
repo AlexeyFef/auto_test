@@ -6,3 +6,4 @@ with sync_playwright() as p:
     page.goto("https://stionline.ru/")
     page.screenshot(path="screenshot/sti_homepage.png")
     page.close()
+
