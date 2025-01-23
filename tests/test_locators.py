@@ -22,7 +22,7 @@ def test_locator_placeholder_litres(page: Page):
     page.keyboard.press("Enter")
     expect(page.get_by_text("Результаты поиска «иван крылов»"))
 
-def test_locator_role_img_and_placeholder(page: Page):
+def test_locator_role_by_img_and_placeholder(page: Page):
     page.goto("https://stionline.ru/")
     page.get_by_role("img", name="поиск").click()      # находим значок лупа для поиска и нажимаем
     page.get_by_placeholder("Поиск").fill("racestyptine")   # ищем поле ввода и вводим значение
