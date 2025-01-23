@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4727968-3767-4fa0-8f5d-0e1b49a59108" name="Changes" comment="new test">
-      <change afterPath="$PROJECT_DIR$/tests/test_locators.py" afterDir="false" />
+    <list default="true" id="e4727968-3767-4fa0-8f5d-0e1b49a59108" name="Changes" comment="test locators">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_locators.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737411498275</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="test locators">
+      <option name="closed" value="true" />
+      <created>1737667782103</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1737667782103</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -153,6 +161,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new screen" />
     <MESSAGE value="new test" />
-    <option name="LAST_COMMIT_MESSAGE" value="new test" />
+    <MESSAGE value="test locators" />
+    <option name="LAST_COMMIT_MESSAGE" value="test locators" />
   </component>
 </project>
