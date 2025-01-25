@@ -9,7 +9,7 @@ def test_locator_role_by_button(page: Page, ):
 def test_locator_placeholder_litres(page: Page):
     page.get_by_placeholder("Искать на Литрес").fill(
         "иван крылов")                        # вводим в поле поиска "Искать на Литрес" значение "иван крылов"
-    page.keyboard.press("Enter")              # нажимаем ввод
+    page.keyboard.press("Enter")                                 # нажимаем ввод
     expect(page.get_by_text("Результаты поиска «иван крылов»"))  # проверяем текст на странице
 
 
