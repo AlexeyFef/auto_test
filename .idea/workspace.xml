@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4727968-3767-4fa0-8f5d-0e1b49a59108" name="Changes" comment="test locators new">
-      <change afterPath="$PROJECT_DIR$/tests/test_locators_orion.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_locators_stionline.py" afterDir="false" />
+    <list default="true" id="e4727968-3767-4fa0-8f5d-0e1b49a59108" name="Changes" comment="test locators new files">
+      <change afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_locators_litres.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_locators_litres.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_locators_litres.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_locators_orion.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_locators_orion.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_locators_stionline.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_locators_stionline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_titles.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_titles.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +27,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -38,6 +43,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in test_locators_litres.py.executor": "Run",
+    "Python tests.Python tests in test_locators_orion.py.executor": "Run",
+    "Python tests.Python tests in test_locators_stionline.py.executor": "Run",
     "Python tests.Python tests in test_titles.py.executor": "Run",
     "Python.async_example.executor": "Run",
     "Python.sync_example.executor": "Run",
@@ -164,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737673213242</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="test locators new files">
+      <option name="closed" value="true" />
+      <created>1737829853923</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1737829853923</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -195,6 +211,7 @@
     <MESSAGE value="new test" />
     <MESSAGE value="test locators" />
     <MESSAGE value="test locators new" />
-    <option name="LAST_COMMIT_MESSAGE" value="test locators new" />
+    <MESSAGE value="test locators new files" />
+    <option name="LAST_COMMIT_MESSAGE" value="test locators new files" />
   </component>
 </project>
