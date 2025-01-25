@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4727968-3767-4fa0-8f5d-0e1b49a59108" name="Changes" comment="test locators">
+    <list default="true" id="e4727968-3767-4fa0-8f5d-0e1b49a59108" name="Changes" comment="test locators new">
+      <change afterPath="$PROJECT_DIR$/tests/test_locators_orion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_locators_stionline.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test_locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_locators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_locators_litres.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +43,15 @@
     "Python.sync_example.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Alex/PycharmProjects/pythonPlaywright/tests",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Alex\PycharmProjects\pythonPlaywright\tests" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -140,7 +148,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737671257525</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="test locators new">
+      <option name="closed" value="true" />
+      <created>1737673056364</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1737673056364</updated>
+    </task>
+    <task id="LOCAL-00012" summary="test locators new">
+      <option name="closed" value="true" />
+      <created>1737673213242</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1737673213242</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -170,6 +194,7 @@
     <MESSAGE value="new screen" />
     <MESSAGE value="new test" />
     <MESSAGE value="test locators" />
-    <option name="LAST_COMMIT_MESSAGE" value="test locators" />
+    <MESSAGE value="test locators new" />
+    <option name="LAST_COMMIT_MESSAGE" value="test locators new" />
   </component>
 </project>
