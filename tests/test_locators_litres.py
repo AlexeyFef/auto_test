@@ -1,7 +1,7 @@
 from playwright.sync_api import Page, expect
 import pytest
 
-def test_locator_role_by_button(page: Page, ):
+def test_locator_role_by_button(page: Page):
     page.get_by_role("button", name="Найти").click()     # находим кнопку "Найти" и нажимаем
     expect(page.get_by_text("стивен кинг")).to_be_visible()   # проверяем текст в выпадающем списке на странице
 
