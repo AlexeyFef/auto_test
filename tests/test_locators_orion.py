@@ -3,8 +3,9 @@ import pytest
 
 
 @pytest.fixture(autouse=True)      # создаем фикстуру, автоматически переводящую по ссылке в каждом тесте
-def open_litres(page: Page):
+def open_orion_med(page: Page):
     page.goto("https://orion-med.ru/")
+    expect(page).to_have_url("https://orion-med.ru/")  # проверка, что перешли точно по ссылке
 
 
 def test_locator_role_by_link(page: Page):
