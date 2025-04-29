@@ -15,4 +15,4 @@ def test_main_actions(page: Page):
 
     page.locator("button:has-text('Принять')").click()  # принимаем соглашение о cockies
 
-    page.pause()                                        # поставить на паузу для просмотра результата
+    page.pause()                                        # поставить на  паузу для просмотра результата
