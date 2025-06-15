@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd4e3d1e-e073-49c2-8069-b292c2b468da" name="Changes" comment="Api_test" />
+    <list default="true" id="fd4e3d1e-e073-49c2-8069-b292c2b468da" name="Changes" comment="Api_test">
+      <change afterPath="$PROJECT_DIR$/doc/list_names.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/locations.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/locations_new.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_5.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_5.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_5.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_5.9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home_work_7.10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chuck_random.py" beforeDir="false" afterPath="$PROJECT_DIR$/chuck_random.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +31,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2uPsDXloH33S86EipB4tSIgpdLw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -32,11 +43,24 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.chuck_random.executor": "Run",
+    "Python.home_work_5.10.executor": "Run",
+    "Python.home_work_5.9.executor": "Run",
+    "Python.home_work_7.10.executor": "Run",
+    "Python.homework_5.4.executor": "Run",
+    "Python.homework_5.5.executor": "Run",
+    "Python.рome_work_5.10.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Alex/PycharmProjects/api_test/doc",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Alex\PycharmProjects\api_test\doc" />
+      <recent name="C:\Users\Alex\PycharmProjects\api_test" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -69,8 +93,27 @@
       <option name="project" value="LOCAL" />
       <updated>1742162521496</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Api_test">
+      <option name="closed" value="true" />
+      <created>1742163627482</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742163627482</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Api_test" />
